@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">JobNotifier</string>
+    <string name="welcome">"Welcome to
+                                JobNotifier"</string>
+    <string name="about">Placement App for MRCET.</string>
+    <string name="user">Student</string>
+    <string name="faculty">Faculty</string>
+    <string name="choose">Choose type of company</string>
+    <string name="choose1">Choose Apply or Prepare</string>
+    <string name="prepare">Prepare</string>
+    <string name="apply">Apply</string>
+    <string name="Company1jd">Research Intern</string>
+    <string name="Company1">Microsoft</string>
+    <string name="Company2">Amazon</string>
+    <string name="Company2jd">SDE-1</string>
+    <string name="Company3">Delloite</string>
+    <string name="Company4">IBM</string>
+    <string name="Company5">Virtusa</string>
+    <string name="Company6">Infosys</string>
+    <string name="Company3jd">Tech analyst</string>
+    <string name="Company4jd">SDE</string>
+    <string name="Company5jd">Full Stack developer</string>
+    <string name="Company6jd">Software Engineer</string>
+    <string name="jobposting">Jobs will posted here along with the job description here. </string>
+    <string name="username">Vikhyat Bhatnagar</string>
+    <string name="productbased">ProductBased</string>
+    <string name="servicebased">ServiceBased</string>
+    <string name="productquote">Woohoo!! as you have selected Product based company,  practice is the only way to success. So be consistent and best of luck for your future. </string>
+    <string name="servicequote">Woohoo!! as you have selected Service based company,  practice is the only way to success. So be consistent and best of luck for your future. </string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
