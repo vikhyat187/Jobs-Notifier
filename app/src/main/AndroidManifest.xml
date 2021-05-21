@@ -9,10 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.JobNotifier">
-        <activity android:name="Activities.UsersList"></activity>
+
         <activity android:name="Activities.RegisterActivity" />
         <activity android:name="Activities.LoginActivity" />
-        <activity android:name=".JobsActivity" />
+        <activity android:name=".JobsActivity" >
+
+        </activity>
         <activity android:name=".ServiceBasedActivity" />
         <activity android:name=".ProductBasedActivity" />
         <activity android:name=".UserLoggedIn" />

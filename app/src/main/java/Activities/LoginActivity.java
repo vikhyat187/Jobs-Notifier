@@ -100,8 +100,16 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 accountsIntent.putExtra("EMAIL",textInputEditTextEmail.getText().toString().trim());
             }
             else if(type_user.equals("faculty")){
-                 accountsIntent = new Intent(getApplicationContext(), JobsActivity.class);
-                 accountsIntent.putExtra("EMAIL",textInputEditTextEmail.getText().toString().trim());
+                if (textInputEditTextEmail.equals(getResources().getString(R.string.facultyemail))){
+                    if (textInputEditTextPassword.equals(getResources().getString(R.string.facultypassword))){
+                        accountsIntent = new Intent(getApplicationContext(), JobsActivity.class);
+                        accountsIntent.putExtra("EMAIL",textInputEditTextEmail.getText().toString().trim());
+                    }
+                    else{
+                        textInputLayoutEmail.setError
+                    }
+                }
+
             }
             emptyInputEditText();
             startActivity(accountsIntent);

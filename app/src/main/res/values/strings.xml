@@ -4,7 +4,9 @@
                                 JobNotifier"</string>
     <string name="about">Placement App for MRCET.</string>
     <string name="user">Student</string>
-    <string name="faculty">Faculty</string>
+    <string name="faculty">Admin</string>
+    <string name="facultyemail">po@mrcet.ac.in</string>
+    <string name="facultypassword">po@mrcet123</string>
     <string name="choose">Choose type of company</string>
     <string name="choose1">Choose Apply or Prepare</string>
     <string name="prepare">Prepare</string>
