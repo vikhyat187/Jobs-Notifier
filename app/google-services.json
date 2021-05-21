@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941394525880",
+    "project_id": "jobsnotifier-90cf1",
+    "storage_bucket": "jobsnotifier-90cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941394525880:android:80010f0935af0c898ebe4d",
+        "android_client_info": {
+          "package_name": "com.vikhyat.jobnotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941394525880-j700t3lk015g732vidi7pika3hpiu99a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-v66bFhow310UrGUkEmAPbnyghwmRhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941394525880-j700t3lk015g732vidi7pika3hpiu99a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
